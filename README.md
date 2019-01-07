@@ -1,2 +1,0 @@
-# vklyuchatel
-testMagazin
